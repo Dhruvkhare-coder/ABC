@@ -1,6 +1,6 @@
 #         
 ROLL NO./           Name          YEAR        BRANCH
-Admission no.
+
 
 
 
